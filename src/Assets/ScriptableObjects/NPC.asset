@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfb9af2e77fe9cc41be0fb6de0ffcec5, type: 3}
+  m_Name: NPC
+  m_EditorClassIdentifier: 
+  materials:
+  - {fileID: 7205189804858053933, guid: ba2c6eea669a0894fbaf13bd4548922d, type: 3}
+  - {fileID: -8384745679888196477, guid: f7b916596c2bbe4419b89def227386f9, type: 3}
+  - {fileID: -7423125517761585655, guid: 01056cee47e94864895e50172ee0e335, type: 3}
+  - {fileID: -6565442159171177796, guid: 14b09d94590689d44801ec37958663b9, type: 3}
+  heads:
+  - head: {fileID: -7512971173401551960, guid: 2acd3bfdfdf188f4ea74c0f8b68078a3, type: 3}
+    genre: Masculino
+    description: 
+  - head: {fileID: 1980654953083619707, guid: b22e5b5b19993dd49a672e358a950571, type: 3}
+    genre: Masculino
+    description: 
+  - head: {fileID: 3359290662721406140, guid: 1fcc75a4d91c8f34588a7812d62ccafb, type: 3}
+    genre: Masculino
+    description: 
+  - head: {fileID: -7466175063336164215, guid: bf2508c0ac0bd4b48aea645055fc98b4, type: 3}
+    genre: Femenino
+    description: 
+  - head: {fileID: -757984932170422373, guid: 6d6ac1c0cbfe1124da7851601d3342e0, type: 3}
+    genre: Femenino
+    description: 
+  bodies:
+  - meshes: {fileID: -336357542869944507, guid: 2acd3bfdfdf188f4ea74c0f8b68078a3, type: 3}
+    description: 
+  - meshes: {fileID: 2613797618117627391, guid: b22e5b5b19993dd49a672e358a950571, type: 3}
+    description: 
+  - meshes: {fileID: 4010469288758565487, guid: 1fcc75a4d91c8f34588a7812d62ccafb, type: 3}
+    description: 
+  - meshes: {fileID: -6556381072186657201, guid: 6d6ac1c0cbfe1124da7851601d3342e0, type: 3}
+    description: 
+  arms:
+  - extLeft: {fileID: 6774274139900731714, guid: 2acd3bfdfdf188f4ea74c0f8b68078a3, type: 3}
+    extRight: {fileID: 3834703577155926997, guid: 2acd3bfdfdf188f4ea74c0f8b68078a3, type: 3}
+    description: 
+  - extLeft: {fileID: 511114097240222864, guid: b22e5b5b19993dd49a672e358a950571, type: 3}
+    extRight: {fileID: -6658358920128373585, guid: b22e5b5b19993dd49a672e358a950571, type: 3}
+    description: 
+  - extLeft: {fileID: -1237890851465606483, guid: 1fcc75a4d91c8f34588a7812d62ccafb, type: 3}
+    extRight: {fileID: -735089171239975207, guid: 1fcc75a4d91c8f34588a7812d62ccafb, type: 3}
+    description: 
+  - extLeft: {fileID: 3567864480095722203, guid: 6d6ac1c0cbfe1124da7851601d3342e0, type: 3}
+    extRight: {fileID: 2917262996866637315, guid: bf2508c0ac0bd4b48aea645055fc98b4, type: 3}
+    description: 
+  legs:
+  - extLeft: {fileID: -6030514293163380519, guid: 2acd3bfdfdf188f4ea74c0f8b68078a3, type: 3}
+    extRight: {fileID: 1052691743730375449, guid: 2acd3bfdfdf188f4ea74c0f8b68078a3, type: 3}
+    description: 
+  - extLeft: {fileID: 2128348860342612566, guid: b22e5b5b19993dd49a672e358a950571, type: 3}
+    extRight: {fileID: 3530377713297018075, guid: b22e5b5b19993dd49a672e358a950571, type: 3}
+    description: 
+  - extLeft: {fileID: 301992813598561145, guid: 1fcc75a4d91c8f34588a7812d62ccafb, type: 3}
+    extRight: {fileID: -5809434594747319305, guid: 1fcc75a4d91c8f34588a7812d62ccafb, type: 3}
+    description: 
+  - extLeft: {fileID: 1670404967789898308, guid: bf2508c0ac0bd4b48aea645055fc98b4, type: 3}
+    extRight: {fileID: -8715532510924458021, guid: bf2508c0ac0bd4b48aea645055fc98b4, type: 3}
+    description: 

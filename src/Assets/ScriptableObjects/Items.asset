@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68bc1f504947fdc4f9de67cee3a06563, type: 3}
+  m_Name: Items
+  m_EditorClassIdentifier: 
+  items:
+  - Name: manzana
+    Item: {fileID: 3954311135323432861, guid: 69ba907b6f634cb4597285b981e81c89, type: 3}
+  - Name: aguacate
+    Item: {fileID: 2205844931511724208, guid: 3252ee6a536c5a2468f221ee6dabbe96, type: 3}
+  - Name: remolacha
+    Item: {fileID: 4743036208505573871, guid: 2a61a88a81f496e45b4529348ce1ce80, type: 3}
+  - Name: repollo
+    Item: {fileID: 2275460260823685905, guid: 0ffb11d41c772294296f746b0822836e, type: 3}
+  - Name: coco
+    Item: {fileID: 3976386675032520168, guid: b6bb2e7d98006924bb9b23937e28d7ce, type: 3}
+  - Name: brocoli
+    Item: {fileID: 7771748701177360663, guid: 79999534fab66a84593a3b785e9b4eb1, type: 3}
+  - Name: zanahoria
+    Item: {fileID: 7327264943694680339, guid: f377cfe12c526fe458cfd44b0048c05f, type: 3}
+  - Name: queso
+    Item: {fileID: 675766017993192267, guid: bb10e64b98b962945b306e7cd3443624, type: 3}
+  - Name: maiz
+    Item: {fileID: 9047360767872088874, guid: ec992c29bf70841438beb3529e2148c1, type: 3}

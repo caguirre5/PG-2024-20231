@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dcae1f8eabed0f4e82436bdaf668a70, type: 3}
+  m_Name: Prompts
+  m_EditorClassIdentifier: 
+  prompts:
+  - "Inventemos un mundo y su historia.\n\nDescripci\xF3n General\nLa villa est\xE1
+    situada en un terreno rodeado de colinas y bosques, con \xE1rboles altos que
+    a\xF1aden un toque natural y fresco al ambiente. Las colinas est\xE1n delimitadas
+    por muros que parecen proteger y aislar el peque\xF1o pueblo, creando un espacio
+    seguro y cerrado. El dise\xF1o del terreno incluye caminos serpenteantes que
+    atraviesan tanto las \xE1reas naturales como los espacios m\xE1s urbanizados.\n\nPlaza
+    Central\nEn el centro de la villa, se encuentra una amplia plaza con una fuente
+    central. La fuente es sencilla pero elegante, y el agua en ella refleja los tonos
+    suaves y pastel que predominan en todo el entorno. Alrededor de la fuente, hay
+    puestos de mercado con techos de colores que sugieren un mercado vibrante y activo,
+    donde los aldeanos podr\xEDan reunirse para vender y comprar productos locales.\n\nEstructuras
+    y Edificaciones\nLas edificaciones alrededor de la plaza son una mezcla de casas
+    y estructuras comerciales, todas construidas con un estilo arquitect\xF3nico
+    consistente. Los techos son inclinados y de colores c\xE1lidos, predominando
+    los tonos rosados y marrones claros. Cada casa tiene detalles \xFAnicos, como
+    peque\xF1as ventanas o entradas, que le dan personalidad al conjunto.\n\n\xC1reas
+    Naturales y Caminos\nHacia las afueras de la plaza, se extiende un \xE1rea m\xE1s
+    natural con caminos que serpentean entre los \xE1rboles. Estos caminos llevan
+    a diferentes partes del mapa, sugiriendo la existencia de otras zonas o actividades
+    fuera del \xE1rea principal. Los \xE1rboles son altos y frondosos, contribuyendo
+    a la sensaci\xF3n de estar en un bosque tranquilo. Peque\xF1os puentes cruzan
+    riachuelos que fluyen a trav\xE9s del paisaje, a\xF1adiendo un toque de serenidad
+    al entorno.\n\nDetalles y Accesorios\nEn el espacio, tambi\xE9n hay varios bancos
+    y mesas distribuidos en la plaza, lo que sugiere que es un lugar donde los aldeanos
+    se re\xFAnen para descansar y socializar. Adem\xE1s, se observa un carro que
+    parece ser utilizado para transportar mercanc\xEDas, lo que a\xF1ade un elemento
+    de funcionalidad y vida diaria a la escena.\n\nBasado en esta informaci\xF2n
+    crea una descripcion sobre el pueblo. Detalla la geograf\xEDa de Valle Sereno
+    y sus alrededores, incluyendo el pueblo, el bosque y el laberinto. Describe las
+    caracter\xEDsticas f\xEDsicas y c\xF3mo estas influyen en la vida y las actividades
+    de los habitantes."
+  - "Describe c\xF3mo surgi\xF3 Valle Sereno en la \xE9poca medieval, integrando
+    elementos fant\xE1sticos o ficticios. La historia debe incluir eventos extraordinarios
+    que desaf\xEDen las normas de la realidad, como magia, criaturas m\xEDticas o
+    fen\xF3menos sobrenaturales. Explica c\xF3mo se estableci\xF3 la comunidad y
+    se construyeron las primeras estructuras, permitiendo que la narraci\xF3n sea
+    creativa, inesperada y un poco exagerada. Limita la historia a un p\xE1rrafos
+    y aseg\xFArate de que cada generaci\xF3n pueda ser completamente diferente."
+  - "Describe la econom\xEDa del pueblo de Valle Sereno. \xBFEn qu\xE9 actividades
+    econ\xF3micas se basan su subsistencia y prosperidad? Detalla los oficios m\xE1s
+    comunes y cualquier producto o servicio \xFAnico que ofrezcan."
+  - "Crea algunas leyendas y mitos locales que sean populares entre los habitantes
+    de Valle Sereno. \xBFHay alguna criatura m\xEDtica asociada al bosque o alg\xFAn
+    secreto oculto en el laberinto? No te limites y crea algo extremadamente creativo,
+    inclusive sin sentido y que desaf\xEDe la realidad pero limita el resultado a
+    un parrafo."
+  - "Narra dos o tres eventos hist\xF3ricos significativos que hayan ocurrido en
+    Valle Sereno y que hayan moldeado su desarrollo y car\xE1cter actual. Estos pueden
+    incluir batallas, desastres naturales, pactos importantes o descubrimientos."
+  - "Describe algunos personajes hist\xF3ricos importantes de Valle Sereno que hayan
+    tenido un impacto duradero en la comunidad, ya sea por sus haza\xF1as, descubrimientos
+    o decisiones cr\xEDticas. No te limites y crea algo extremadamente creativo,
+    inclusive sin sentido y que desaf\xEDe la realidad pero limita el resultado a
+    un parrafo."
+  - "Explica las relaciones de Valle Sereno con regiones o pueblos vecinos. \xBFExisten
+    alianzas, rivalidades o comercio? \xBFC\xF3mo afectan estas relaciones a la pol\xEDtica
+    y econom\xEDa locales?"
+  - "Describe el principal problema que enfrenta actualmente Valle Sereno: un ente
+    malvado que aterra al pueblo. \xBFC\xF3mo ha afectado este ente a la vida diaria
+    y la estabilidad de Valle Sereno? \xBFCrea y describe este personaje antagonista?
+    No te limites y crea algo extremadamente creativo, inclusive sin sentido y que
+    desaf\xEDe la realidad pero limita el resultado a un parrafo."
+  - "Explica c\xF3mo los habitantes han escuchado rumores de una poci\xF3n m\xE1gica
+    que podr\xEDa solucionar sus problemas, han comenzado a buscar pistas. Nadie
+    conoce los ingredientes o el nombre de la poci\xF3n; solo subicado al norte del
+    prueblo. No te limites y crea algo extremadamente creativo, inclusive sin sentido
+    y que desaf\xEDe la realidad pero limita el resultado a un parrafo."
